@@ -1,4 +1,4 @@
-@@ -3,8 +3,4 @@ Desktop Version
+Desktop Version
 :-------------------------:
 ![](images/portfolio.png)
 <img align="left" width="650"
