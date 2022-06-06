@@ -1,1 +1,2 @@
 # DiceeChallenge
+ JavaScript project
